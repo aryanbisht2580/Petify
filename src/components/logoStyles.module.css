@@ -1,0 +1,8 @@
+.outerDiv{
+    color:white;
+    display: flex;
+    height:60px;
+    width:100px;
+    align-items: end;
+    padding:20
+}

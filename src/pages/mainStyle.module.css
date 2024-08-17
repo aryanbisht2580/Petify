@@ -1,0 +1,15 @@
+.outerdiv{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height:auto;
+    min-height: 100vh;
+    margin:0;
+    overflow: hidden;
+    
+}
+.dwnBtn{
+    position: fixed;
+    right:20px;
+    top:20px
+}

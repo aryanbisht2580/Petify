@@ -1,0 +1,34 @@
+.btnContainer {
+    height: auto;
+    width: auto;
+
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px 20px;
+    /* padding: 0; */
+    border: none; 
+    cursor: pointer; 
+}
+.btnContainer:active{
+    background-color: rgb(215, 215, 215);
+}
+
+.innerDiv{
+   
+    
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.heading{
+    font-family: "CustomFont";
+    font-size: 40px;
+    margin:0;
+    font-weight:bolder;
+}
+.subHeading{
+    font-family: "CustomFont";
+    font-size: 15px;
+    margin:5px;
+}
